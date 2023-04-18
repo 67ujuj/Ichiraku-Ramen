@@ -1,0 +1,29 @@
+body{
+    font-family: Nuku Nuku;
+    background-image: url(/assets/img/background1.jpeg);
+}
+#logo{
+    max-width: 20%;
+}
+.barredenav{
+    background-image: url(/assets/img/background4.jpg);
+}
+p{
+    color: white;
+    font-size: 26px;
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{
+    justify-content: space-evenly;
+    font-size: 22px;
+    align-items: center;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
+.test{
+    color: white !important;
+}
