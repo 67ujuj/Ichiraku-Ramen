@@ -27,3 +27,28 @@ li{
 .test{
     color: white !important;
 }
+/* ul#menu li {
+    display: inline-block;
+}
+ul#menu{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
+div.card ul#menu li.list-group-item{
+    font-size: 40px;
+    vertical-align: center;
+} */
+footer{
+    background-image: url(/assets/img/background4.jpg);
+}
+footer p{
+    font-size: 38px;
+}
+footer li{
+    font-size: 22px;
+}
+footer .container-fluid{
+    display: flex;
+    justify-content: space-evenly;
+}
