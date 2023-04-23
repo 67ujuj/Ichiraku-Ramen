@@ -18,7 +18,6 @@ p{
 .navbar-nav{
     justify-content: space-evenly;
     font-size: 22px;
-    align-items: center;
 }
 li{
     display: flex;
@@ -47,6 +46,7 @@ footer p{
 }
 footer li{
     font-size: 22px;
+    text-align: center;
 }
 footer .container-fluid{
     display: flex;
