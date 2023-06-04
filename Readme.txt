@@ -1,0 +1,1 @@
+Cet exercice consistait à créer une page d'un restaurant en utilisant Bootstrap, l'objectif était de rendre le site responsive et cohérent d'un point de vue design.
